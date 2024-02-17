@@ -5,8 +5,8 @@ Este é um template para um gerador de mensagens SMS em Python, utilizando o Twi
 
 Requisitos
 
-SID da Conta Twilio
-Token de Autenticação Twilio
-Número de Telefone Twilio
-Crie uma conta no Twilio em https://www.twilio.com/ para obtrer as credenciais necessárias.
+SID da Conta Twilio, 
+Token de Autenticação Twilio, 
+Número de Telefone Twilio, 
+crie uma conta no Twilio em https://www.twilio.com/ para obtrer as credenciais necessárias.
 
